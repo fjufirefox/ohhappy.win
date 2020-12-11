@@ -1053,10 +1053,6 @@ msgid ""
 "tags search. Also add tag management in write page."
 msgstr ""
 
-#: ../inc/helper.options.admin.php:69
-msgid "Tracking"
-msgstr ""
-
 #: ../inc/helper.options.admin.php:72
 msgid ""
 "By allowing us to track your usage, we can help you better because we will "

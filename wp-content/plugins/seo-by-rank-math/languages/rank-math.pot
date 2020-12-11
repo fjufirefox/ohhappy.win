@@ -206,6 +206,24 @@ msgstr ""
 msgid "Facebook profile URL"
 msgstr ""
 
+msgid "Rank Math Overview"
+msgstr ""
+
+msgid "Latest Blog Posts from Rank Math"
+msgstr ""
+
+msgid "Error in fetching."
+msgstr ""
+
+msgid "Blog"
+msgstr ""
+
+msgid "(opens in a new window)"
+msgstr ""
+
+msgid "Go Pro"
+msgstr ""
+
 msgid "The canonical URL you entered does not seem to be a valid URL. Please double check it in the SEO meta box &raquo; Advanced tab."
 msgstr ""
 
@@ -654,10 +672,10 @@ msgstr ""
 msgid "Mobile Preview"
 msgstr ""
 
-msgid "Click to enter custom title"
+msgid "Click to enter permalink"
 msgstr ""
 
-msgid "Click to enter permalink"
+msgid "Click to enter custom title"
 msgstr ""
 
 msgid "Click to enter custom meta description"
@@ -758,6 +776,9 @@ msgstr ""
 
 #. translators: %s expands to the current page number
 msgid "Page %s"
+msgstr ""
+
+msgid "Search Engine Optimization by Rank Math PRO - https://s.rankmath.com/home"
 msgstr ""
 
 msgid "Search Engine Optimization by Rank Math - https://s.rankmath.com/home"
@@ -1121,11 +1142,11 @@ msgstr ""
 msgid "Insert keywords you want to rank for. Try to <a href=\"%s\" target=\"_blank\">attain 100/100 points</a> for better chances of ranking."
 msgstr ""
 
-#. translators: link to connect page.
-msgid "Want more? PRO version is coming soon. %s"
+#. translators: link to pricing page.
+msgid "Want more? %s version"
 msgstr ""
 
-msgid "Notify me!"
+msgid "Upgrade today to the PRO"
 msgstr ""
 
 msgid "Trends"
@@ -1883,7 +1904,13 @@ msgstr ""
 msgid "Import News Settings"
 msgstr ""
 
-msgid "Import News Settings from Yoast news"
+msgid "Import News Settings from Yoast News Add-on."
+msgstr ""
+
+msgid "Import Video Sitemap Settings"
+msgstr ""
+
+msgid "Import Video Sitemap Settings from Yoast Video Add-on."
 msgstr ""
 
 msgid "Unable to perform action this time."
@@ -1901,10 +1928,16 @@ msgstr ""
 msgid "Import meta information of your posts/pages like the titles, descriptions, robots meta, OpenGraph info, etc."
 msgstr ""
 
+msgid "Import meta information of your terms like the titles, descriptions, robots meta, OpenGraph info, etc."
+msgstr ""
+
 msgid "Settings imported successfully."
 msgstr ""
 
 msgid "News Settings imported successfully."
+msgstr ""
+
+msgid "Video Settings imported successfully."
 msgstr ""
 
 msgid "Plugin deactivated successfully."
@@ -2093,7 +2126,7 @@ msgstr ""
 msgid "Custom Mode %s"
 msgstr ""
 
-msgid "Coming Soon"
+msgid "Select this if you have a custom Rank Math settings file you want to use."
 msgstr ""
 
 msgid "<strong>Note</strong> You can easily switch between modes at any point."
@@ -2231,7 +2264,7 @@ msgid "Connect Google&trade; Services"
 msgstr ""
 
 #. translators: Link to How to Setup Google Search Console KB article
-msgid "Rank Math automates everything, use below button to connect your site with Google Search Console and Google Analytics. It will verify your site and submit sitemaps auotmatically. %s"
+msgid "Rank Math automates everything, use below button to connect your site with Google Search Console and Google Analytics. It will verify your site and submit sitemaps automatically. %s"
 msgstr ""
 
 msgid "Read more about it here."
@@ -2341,13 +2374,19 @@ msgstr ""
 msgid "Monitor broken pages that ruin user-experience and affect SEO. %s."
 msgstr ""
 
-msgid "404 Monitor Stats"
+msgid "View Report"
 msgstr ""
 
-msgid "404 Monitor Log Count"
+msgid "Log Count"
 msgstr ""
 
-msgid "404 URL Hits"
+msgid "Total number of 404 pages opened by the users."
+msgstr ""
+
+msgid "URL Hits"
+msgstr ""
+
+msgid "Total number visits received on all the 404 pages."
 msgstr ""
 
 msgid "Review 404 errors on your site"
@@ -2411,6 +2450,37 @@ msgid "Analytics cache cleared."
 msgstr ""
 
 msgid "Post re-index in progress."
+msgstr ""
+
+#. translators: Auth URL
+msgid "It seems like the connection with your Google account & Rank Math needs to be made again. <a href=\"%s\" class=\"rank-math-reconnect-google\">Please click here.</a>"
+msgstr ""
+
+msgid "Last 30 Days"
+msgstr ""
+
+msgid "Search Traffic"
+msgstr ""
+
+msgid "This is the number of pageviews carried out by visitors from Google."
+msgstr ""
+
+msgid "Total Impressions"
+msgstr ""
+
+msgid "How many times your site showed up in the search results."
+msgstr ""
+
+msgid "Total Clicks"
+msgstr ""
+
+msgid "Total Keywords"
+msgstr ""
+
+msgid "Total number of keywords your site ranking below 100 position."
+msgstr ""
+
+msgid "Average Position"
 msgstr ""
 
 #. translators: delete counter
@@ -2541,6 +2611,9 @@ msgstr ""
 msgid "Conversion started. A success message will be shown here once the process completes. You can close this page."
 msgstr ""
 
+msgid "Tables re-created."
+msgstr ""
+
 msgid "Flush SEO Analysis Data"
 msgstr ""
 
@@ -2568,16 +2641,14 @@ msgstr ""
 msgid "Are you sure you want to delete the 404 log? This action is irreversible."
 msgstr ""
 
-msgid "Yoast Block Converter"
+msgid "Re-create Missing Database Tables"
 msgstr ""
 
-msgid "Convert FAQ & HowTo Blocks created using Yoast. Use this option to easily move your previous blocks into Rank Math."
+#. translators: 1. Review Schema documentation link
+msgid "Check if required tables exist and create them if not."
 msgstr ""
 
-msgid "Are you sure you want to convert Yoast blocks into Rank Math blocks? This action is irreversible."
-msgstr ""
-
-msgid "Convert Blocks"
+msgid "Re-create Tables"
 msgstr ""
 
 msgid "Schema Converter"
@@ -2590,6 +2661,18 @@ msgid "Are you sure you want to do this? This is not recommended until and unles
 msgstr ""
 
 msgid "Convert Schema"
+msgstr ""
+
+msgid "Yoast Block Converter"
+msgstr ""
+
+msgid "Convert FAQ & HowTo Blocks created using Yoast. Use this option to easily move your previous blocks into Rank Math."
+msgstr ""
+
+msgid "Are you sure you want to convert Yoast blocks into Rank Math blocks? This action is irreversible."
+msgstr ""
+
+msgid "Convert Blocks"
 msgstr ""
 
 msgid "Delete Internal Links Data"
@@ -2683,13 +2766,16 @@ msgstr ""
 msgid "Easily create redirects without fiddling with tedious code. %s."
 msgstr ""
 
-msgid "Redirections Stats"
+msgid "Redirection Count"
 msgstr ""
 
-msgid "Redirections Count"
+msgid "Total number of Redirections created in the Rank Math."
 msgstr ""
 
-msgid "Redirections Hits"
+msgid "Redirection Hits"
+msgstr ""
+
+msgid "Total number of hits received by all the Redirections."
 msgstr ""
 
 msgid "No valid ID found."
@@ -2928,6 +3014,18 @@ msgid "EDD Product"
 msgstr ""
 
 msgid "No schema found."
+msgstr ""
+
+msgid "Opening Hours"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Opening Time"
+msgstr ""
+
+msgid "Closing Time"
 msgstr ""
 
 msgid "Editor's Rating:"
@@ -3321,6 +3419,63 @@ msgid "System Info"
 msgstr ""
 
 msgid "Copy System Info to Clipboard"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Database version"
+msgstr ""
+
+msgid "Plugin subscription plan"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Google Refresh token"
+msgstr ""
+
+msgid "No token"
+msgstr ""
+
+msgid "Token exists"
+msgstr ""
+
+msgid "Database Table: 404 Log"
+msgstr ""
+
+msgid "Database Table: Redirection"
+msgstr ""
+
+msgid "Database Table: Redirection Cache"
+msgstr ""
+
+msgid "Database Table: Internal Link"
+msgstr ""
+
+msgid "Database Table: Internal Link Meta"
+msgstr ""
+
+msgid "Database Table: Google Search Console"
+msgstr ""
+
+msgid "Database Table: Flat Posts"
+msgstr ""
+
+msgid "Database Table: Google Analytics"
+msgstr ""
+
+msgid "Database Table: Google AdSense"
+msgstr ""
+
+msgid "Database Table: Keyword Manager"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Doesn't exists"
 msgstr ""
 
 msgid "This update will install a beta version of Rank Math."
@@ -4411,6 +4566,10 @@ msgstr ""
 msgid "Turn ON to ignore all query parameters (the part after a question mark in a URL) when logging 404 errors."
 msgstr ""
 
+#. translators: reconnect link
+msgid "There is no refresh token. Please <a href=\"%1$s\" class=\"button button-link rank-math-reconnect-google\">reconnect your app</a>"
+msgstr ""
+
 msgid "Bad request. Please check the code."
 msgstr ""
 
@@ -4418,6 +4577,18 @@ msgid "Sorry, no preference found."
 msgstr ""
 
 msgid "Sorry, no post id found."
+msgstr ""
+
+#. translators: number of days
+msgid "Storage Days: %s"
+msgstr ""
+
+#. translators: number of rows
+msgid "Data Rows: %s"
+msgstr ""
+
+#. translators: database size
+msgid "Size: %s"
 msgstr ""
 
 #. translators: date
@@ -4434,6 +4605,9 @@ msgstr ""
 msgid "free version"
 msgstr ""
 
+msgid "Delete Recent Data (last %d days)"
+msgstr ""
+
 msgid "Delete Recent Data (last 15 days)"
 msgstr ""
 
@@ -4444,18 +4618,6 @@ msgid "Update Data manually"
 msgstr ""
 
 msgid "Fetching in Progress"
-msgstr ""
-
-#. translators: number of days
-msgid "Storage Days: %s"
-msgstr ""
-
-#. translators: number of rows
-msgid "Data Rows: %s"
-msgstr ""
-
-#. translators: database size
-msgid "Size: %s"
 msgstr ""
 
 msgid "Group Title"
@@ -4498,9 +4660,6 @@ msgid "Address Format"
 msgstr ""
 
 msgid "Format used when the address is displayed using the <code>[rank_math_contact_info]</code> shortcode.<br><strong>Available Tags: {address}, {locality}, {region}, {postalcode}, {country}, {gps}</strong>"
-msgstr ""
-
-msgid "Opening Hours"
 msgstr ""
 
 msgid "Select opening hours. You can add multiple sets if you have different opening or closing hours on some days or if you have a mid-day break. Times are specified using 24:00 time."
@@ -4582,7 +4741,7 @@ msgstr ""
 msgid "Latitude and longitude values separated by comma."
 msgstr ""
 
-msgid "*Multiple Location option is coming soon."
+msgid "Multiple Locations are available in the %s."
 msgstr ""
 
 msgid "Redirection Debugger"
@@ -4869,15 +5028,6 @@ msgid "Recipe Ingredients"
 msgstr ""
 
 msgid "Recipe Instructions"
-msgstr ""
-
-msgid "Opening Time"
-msgstr ""
-
-msgid "Closing Time"
-msgstr ""
-
-msgid "Open Days"
 msgstr ""
 
 msgid "Serves Cuisine"

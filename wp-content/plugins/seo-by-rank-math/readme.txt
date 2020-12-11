@@ -2,10 +2,10 @@
 Contributors: rankmath
 Plugin link: https://rankmath.com/?utm_source=LP&utm_campaign=WP
 Tags: seo, sitemap, google search console, schema, redirection
-Tested up to: 5.5.1
+Tested up to: 5.6
 Requires at least: 5.2
 Requires PHP: 7.0
-Stable tag: 1.0.50.1
+Stable tag: 1.0.54.1
 License: GPL-2.0+
 License URI: https://www.gnu.org/licenses/gpl-2.0.txt
 
@@ -475,33 +475,23 @@ Please drop us an email at support@rankmath.com and we would be more than happy 
 
 == Changelog ==
 
-= 1.0.50.1 [Oct 22, 2020] =
-* Fixed: 'Add Image' button was not working in the [Social tab](https://rankmath.com/kb/meta-box-social-tab/)
-* Fixed: Typo in the Restaurant schema type
-* Fixed: Old EDD product schema converting to the `WooCommerce Product` Schema; this will not affect the frontend output
-* Fixed: `Product` Schema was set on the newly created WooCommerce products instead of `WooCommerce Product` Schema
-* Fixed: Already reviewed checkbox was not working in the Elementor Modal's Ask review tab
+= 1.0.54.1 [Dec 09, 2020] =
+* Improved: The overall data fetching process of the Analytics module from Google
+* Improved: Importing the top 1,000 keywords in the Analytics from Google
+* Fixed: The Classic Editor was not working properly on the installations where the PHP 7.2 or lower was used. Please update to at least PHP 7.4 for better security and speed
+* Fixed: Multiple reconnect notices were showing on some installations
 
-= 1.0.50 [Oct 20, 2020] =
-* Added: Reconnect button on the Analytics settings page. This option can be used to refresh the property list
-* Added: Individual WooCommerce Product reviews in the [Schema markup](https://rankmath.com/kb/rich-snippets/) code along with the aggregate rating
-* Improved: Removed some unused code and **reduced the plugin zip file from `2.8 MB` to `2.06 MB`**
-* Improved: Made Analytics menu dot red if Google services are disconnected
-* Improved: Hide the rest of the Google Analytics and Google Search Console properties once settings are saved so no one else can see which websites are verified under your account
-* Improved: Red color dot shows up beside the Analytics menu item if Google Services are not connected
-* Improved: The CTA action box styling in the Schema popups
-* Improved: Google Maps API Key option field now uses a password type to hide the key from showing up to everyone
-* Improved: Replaced multi-select fields in the Schema types with checkboxes
-* Improved: Schema module's performance by optimizing the code further
-* Improved: Remove default border from the contact shortcode Map and also remove some unused CSS
-* Removed: Google Analytics traffic stats introduced in the last update as they were causing issue due to high usage on several installations
-* Removed: Adsense account and few other scopes as those are not required in the free version
-* Fixed: Encoded category URLs were throwing 404 error when the Remove Category Base option was enabled [Thanks to [@dawnbirth](https://github.com/dawnbirth)]
-* Fixed: Schema `@type` set as `false` if the business type is set as none
-* Fixed: An issue where the Google services were disconnecting on some installations
-* Fixed: Date Archive enable/disable option labels were showing in the reverse order
-* Fixed: 404 Monitor page title shows as a link
-* Fixed: UI issues in the Elementor dark mode
-* Fixed: System Info tab showing "Copied!" text all the time
+= 1.0.54 [Dec 08, 2020] =
+* Added: Now [Analytics](https://rankmath.com/kb/analytics/) shows Keywords even with the 0 clicks, this will help to show accurate CTR and Total Keyword count
+* Added: Show reconnect notice if the Google refresh token is missing
+* Improved: 'Re-create Missing Database Tables' tool now checks all the required tables for Rank Math
+* Improved: Keep only connected Google Accounts in the database
+* Improved: Minor UI changes
+* Fixed: PHP error in the frontend if the incorrect duration was used in the Video Schema
+* Fixed: Google preview for the WooCommerce product was not showing the Schema data
+* Fixed: Enable/Disable Date Archive Option was reverted
+* Fixed: [Content Analysis](https://rankmath.com/kb/general-tab/#content-analysis) was not working in the Classic Editor's text mode
+* Fixed: Incompatibility with the WP Parsi Date plugin
+* Fixed: Wrong Total redirection count when the number was greater than 999
 
 Full changelog can be found here - **[Rank Math SEO changelog](https://rankmath.com/changelog/?utm_source=LP&utm_campaign=WP)**

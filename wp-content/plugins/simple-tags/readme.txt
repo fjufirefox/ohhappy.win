@@ -1,9 +1,9 @@
 === Simple Tags - Tags Manager ===
-Contributors: WebFactory, UnderConstructionPage, wpreset
+Contributors: WebFactory
 Tags: tag, tags, taxonomy, term, cpt, tagging, navigation, tag manager, tags manager, term manager, terms manager
 Requires at least: 3.3
-Tested up to: 5.5
-Stable tag: 2.61
+Tested up to: 5.6
+Stable tag: 2.62
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -68,6 +68,9 @@ The Simple Tags can be installed in 3 easy steps:
 6. You also can suggest tags from lot's of service (Yahoo! Content Analysis, OpenCalais, Alchemy, Zemanta, Tag The Net, Tag4Site, dataTXT and local terms)
 
 == Changelog ==
+
+v2.62 - 2020-10-27
+* removed all tracking code
 
 v2.61 - 2020-09-30
 * fixed issue with Maximum number of links for the same tag
