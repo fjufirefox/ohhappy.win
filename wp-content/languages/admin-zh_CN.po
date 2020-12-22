@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-13 11:40:17+0000\n"
+"PO-Revision-Date: 2020-12-20 10:43:48+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2361,7 +2361,7 @@ msgstr "抹除器未包含回调：%s。"
 #: wp-admin/includes/ajax-actions.php:4740
 #: wp-admin/includes/ajax-actions.php:4931
 msgid "Sorry, you are not allowed to perform this action."
-msgstr "抱歉，您不能进行此动作。"
+msgstr "抱歉，您不能进行此操作。"
 
 #. translators: 1: Name of the constant used. 2: List of allowed hostnames.
 #: wp-admin/includes/class-wp-site-health.php:1888
@@ -7729,7 +7729,7 @@ msgstr "当前预览的主题是可互动的——您可以点击不同的页面
 
 #: wp-admin/themes.php:172
 msgid "Tap or hover on any theme then click the Live Preview button to see a live preview of that theme and change theme options in a separate, full-screen view. You can also find a Live Preview button at the bottom of the theme details screen. Any installed theme can be previewed and customized in this way."
-msgstr "轻触或悬浮在任何已安装的主题上，然后点击下方的“实时预览”链接来查看实时预览，并在单独的界面预览并调整主题设置。您也可在主题详情屏幕的最底找到“实时预览”按钮。任何已安装的主题都可通过此方式预览及自定义。"
+msgstr "轻触或悬浮在任何已安装的主题上，然后点击下方的“实时预览”链接来查看实时预览，并在单独的界面预览并调整主题设置。您也可在主题详情界面的最底找到“实时预览”按钮。任何已安装的主题都可通过此方式预览及自定义。"
 
 #: wp-admin/themes.php:136
 msgid "The current theme is displayed highlighted as the first theme."
@@ -7749,7 +7749,7 @@ msgstr "悬浮或轻触以查看激活和实时预览按钮"
 
 #: wp-admin/themes.php:131
 msgid "This screen is used for managing your installed themes. Aside from the default theme(s) included with your WordPress installation, themes are designed and developed by third parties."
-msgstr "此屏幕可用来管理您已安装的主题。与WordPress自带的默认主题不同，这些主题是由第三方设计和开发的。"
+msgstr "此界面用于管理您已安装的主题。与WordPress自带的默认主题不同，这些主题是由第三方设计和开发的。"
 
 #: wp-admin/widgets.php:449
 msgid "To activate a widget drag it to a sidebar or click on it. To deactivate a widget and delete its settings, drag it back."
@@ -8009,7 +8009,7 @@ msgstr "请升级您位于 %1$s 的站点到WordPress %2$s。"
 #. translators: %s: WordPress version.
 #: wp-admin/includes/class-wp-automatic-updater.php:735
 msgid "For more on version %s, see the About WordPress screen:"
-msgstr "要获取更多关于%s版本的信息，请参阅“关于WordPress”屏幕："
+msgstr "要获取更多关于%s版本的信息，请参阅“关于WordPress”页面："
 
 #: wp-admin/includes/class-wp-automatic-updater.php:729
 msgid "No further action is needed on your part."
@@ -8533,11 +8533,11 @@ msgstr "创建、编辑和删除菜单"
 
 #: wp-admin/nav-menus.php:602 wp-admin/themes.php:132
 msgid "From this screen you can:"
-msgstr "在此屏幕中您可："
+msgstr "在此界面中您可："
 
 #: wp-admin/nav-menus.php:594
 msgid "This screen is used for managing your navigation menus."
-msgstr "此屏幕用来管理您的导航菜单。"
+msgstr "此界面用于管理您的导航菜单。"
 
 #: wp-admin/nav-menus.php:451
 msgid "Menu locations updated."
@@ -9687,7 +9687,7 @@ msgstr "更新内容"
 
 #: wp-admin/options-permalink.php:24
 msgid "This screen allows you to choose your permalink structure. You can choose from common settings or create custom URL structures."
-msgstr "这个画面可以让您选择您的固定链接结构。您可以选择常见的设置或建立自定义URL结构。"
+msgstr "此界面可以让您选择您的固定链接结构。您可以选择常见的设置或建立自定义URL结构。"
 
 #. translators: 1: WordPress version, 2: URL to About screen.
 #: wp-admin/includes/update-core.php:1450 wp-admin/update-core.php:865

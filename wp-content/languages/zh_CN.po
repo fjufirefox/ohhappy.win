@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-18 04:49:16+0000\n"
+"PO-Revision-Date: 2020-12-20 10:44:14+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3147,7 +3147,7 @@ msgstr "未能发送个人数据导出确认邮件。"
 #. Site title, 2: Name of the confirmed action.
 #: wp-includes/user.php:3493
 msgid "[%1$s] Action Confirmed: %2$s"
-msgstr "[%1$s] 动作已确认：%2$s"
+msgstr "[%1$s] 操作已确认：%2$s"
 
 #. translators: %s: Taxonomy name.
 #: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2572
@@ -3293,7 +3293,7 @@ msgstr ""
 #. Site title, 2: Name of the action.
 #: wp-includes/user.php:3955
 msgid "[%1$s] Confirm Action: %2$s"
-msgstr "[%1$s] 确认动作：%2$s"
+msgstr "[%1$s] 确认操作：%2$s"
 
 #: wp-includes/user.php:3841 wp-admin/erase-personal-data.php:54
 #: wp-admin/menu.php:284
@@ -3358,12 +3358,12 @@ msgstr "WordPress媒体"
 
 #: wp-login.php:1215
 msgid "User action confirmed."
-msgstr "用户动作已确认。"
+msgstr "用户操作已确认。"
 
 #. translators: %s: Action name.
 #: wp-includes/user.php:3845
 msgid "Confirm the \"%s\" action"
-msgstr "确认“%s”动作"
+msgstr "确认“%s”操作"
 
 #: wp-includes/user.php:3838 wp-admin/export-personal-data.php:54
 #: wp-admin/menu.php:283
@@ -3403,7 +3403,7 @@ msgstr "评论%d包含个人数据，但不能被匿名化。"
 
 #: wp-includes/user.php:3738
 msgid "Action has been confirmed."
-msgstr "动作已被确认。"
+msgstr "操作已被确认。"
 
 #. translators: Do not translate DESCRIPTION, CONFIRM_URL, SITENAME, SITEURL:
 #. those are placeholders.
@@ -3836,11 +3836,11 @@ msgstr "<strong>错误</strong>：此邮箱地址已被使用。"
 
 #: wp-includes/taxonomy.php:607
 msgid "&larr; Go to Categories"
-msgstr "&larr; 前往分类"
+msgstr "&larr; 转到分类"
 
 #: wp-includes/taxonomy.php:142
 msgid "&larr; Go to Link Categories"
-msgstr "&larr; 前往链接分类"
+msgstr "&larr; 转到链接分类"
 
 #: wp-includes/script-loader.php:1177
 msgid "Sorry, you can&#8217;t preview new themes when you have changes scheduled or saved as a draft. Please publish your changes, or wait until they publish to preview new themes."
@@ -4285,7 +4285,7 @@ msgstr "过滤主题（%s）"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:124
 msgid "Go to theme sources"
-msgstr "前往主题源代码"
+msgstr "转到主题源代码"
 
 #: wp-includes/customize/class-wp-customize-themes-section.php:103
 msgid "Search WordPress.org themes"
@@ -4577,7 +4577,7 @@ msgstr "您粘贴的是HTML吗？"
 
 #: wp-includes/widgets/class-wp-widget-text.php:535
 msgid "Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find it by scanning the list of available widgets on this screen. Check it out to add some custom code to your site!"
-msgstr "您知道现在有“自定义HTML”小工具了吗？您可以在此屏幕查看所有可用的小工具。来用它向您的网站加入自定义代码吧！"
+msgstr "您知道现在有“自定义HTML”小工具了吗？您可在此界面查看所有可用的小工具。来用它向您的网站加入自定义代码吧！"
 
 #: wp-includes/widgets/class-wp-widget-text.php:533
 msgid "Did you know there is a &#8220;Custom HTML&#8221; widget now? You can find it by pressing the &#8220;<a class=\"add-widget\" href=\"#\">Add a Widget</a>&#8221; button and searching for &#8220;HTML&#8221;. Check it out to add some custom code to your site!"
@@ -7099,7 +7099,7 @@ msgstr "抱歉，您不能删除此文章。"
 #: wp-login.php:288
 msgctxt "site"
 msgid "&larr; Go to %s"
-msgstr "&larr; 前往%s"
+msgstr "&larr; 返回到%s"
 
 #: wp-includes/wp-db.php:1981 wp-includes/wp-db.php:1987
 msgid "Unable to retrieve the error message from MySQL"
