@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//ohhappy.win/index.php/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://ohhappy.win/index.php/post-sitemap.xml</loc>
+		<lastmod>2020-12-11T12:24:53+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://ohhappy.win/index.php/page-sitemap.xml</loc>
+		<lastmod>2020-12-11T12:24:53+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://ohhappy.win/index.php/category-sitemap.xml</loc>
+		<lastmod>2020-12-11T12:24:53+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
