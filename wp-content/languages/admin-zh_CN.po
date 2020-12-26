@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-20 10:43:48+0000\n"
+"PO-Revision-Date: 2020-12-26 05:46:02+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -8714,7 +8714,7 @@ msgstr "插入多媒体"
 
 #: wp-admin/edit-form-advanced.php:282
 msgid "The title field and the big Post Editing Area are fixed in place, but you can reposition all the other boxes using drag and drop. You can also minimize or expand them by clicking the title bar of each box. Use the Screen Options tab to unhide more boxes (Excerpt, Send Trackbacks, Custom Fields, Discussion, Slug, Author) or to choose a 1- or 2-column layout for this screen."
-msgstr "标题区域和文章编辑区域的位置是固定的，但您可以通过拖拽来重新排列其它模块。点击模块标题可以最小化或展开模块。一些模块是默认隐藏的，您也可以使用“显示选项”在页面中取消隐藏这些模块（摘要、发送Trackback、自定义栏目、讨论、别名，和作者）。您还可以切换一栏/两栏布局。"
+msgstr "标题区域和文章编辑区域的位置是固定的，但您可以通过拖拽来重新排列其它模块。点击模块标题可以最小化或展开模块。一些模块是默认隐藏的，您也可以使用“显示选项”在页面中取消隐藏这些模块（摘要、发送Trackback、自定义字段、讨论、别名，和作者）。您还可以切换一栏/两栏布局。"
 
 #: wp-admin/includes/class-custom-image-header.php:128
 msgid "Don&#8217;t forget to click &#8220;Save Changes&#8221; when you&#8217;re done!"
@@ -11518,7 +11518,7 @@ msgstr "菜单项已被成功删除。"
 
 #: wp-admin/includes/ajax-actions.php:1612
 msgid "Please provide a custom field name."
-msgstr "请输入一个自定义栏目的名称。"
+msgstr "请输入一个自定义字段的名称。"
 
 #: wp-admin/includes/class-custom-background.php:348
 msgid "Display Options"
@@ -13167,7 +13167,7 @@ msgstr "在上传您的导入文件之前，您需要修正以下错误："
 
 #: wp-admin/includes/template.php:753
 msgid "Add Custom Field"
-msgstr "添加自定义栏目"
+msgstr "添加自定义字段"
 
 #: wp-admin/includes/template.php:740
 msgid "Enter new"
@@ -13175,7 +13175,7 @@ msgstr "输入新栏目"
 
 #: wp-admin/includes/template.php:714
 msgid "Add New Custom Field:"
-msgstr "添加自定义栏目："
+msgstr "添加自定义字段："
 
 #: wp-admin/includes/template.php:642
 msgid "Key"
@@ -14491,7 +14491,7 @@ msgstr "下载导出的文件"
 
 #: wp-admin/export.php:172
 msgid "This format, which we call WordPress eXtended RSS or WXR, will contain your posts, pages, comments, custom fields, categories, and tags."
-msgstr "我们称这种格式为WordPress eXtended RSS或WXR，它包含了您的全部文章、页面、评论、自定义栏目、分类目录和标签。"
+msgstr "我们称这种格式为WordPress eXtended RSS或WXR，它包含了您的全部文章、页面、评论、自定义字段、分类目录和标签。"
 
 #: wp-admin/export.php:171
 msgid "When you click the button below WordPress will create an XML file for you to save to your computer."
@@ -14622,7 +14622,7 @@ msgstr "最后由%1$s编辑于%2$s%3$s"
 
 #: wp-admin/includes/meta-boxes.php:1520
 msgid "Custom Fields"
-msgstr "自定义栏目"
+msgstr "自定义字段"
 
 #: wp-admin/includes/meta-boxes.php:1514
 msgid "Send Trackbacks"
@@ -14644,11 +14644,11 @@ msgstr "文章已还原到在%s的版本。"
 
 #: wp-admin/edit-form-advanced.php:184 wp-admin/edit-form-advanced.php:199
 msgid "Custom field deleted."
-msgstr "已删除自定义栏目。"
+msgstr "已删除自定义字段。"
 
 #: wp-admin/edit-form-advanced.php:183 wp-admin/edit-form-advanced.php:198
 msgid "Custom field updated."
-msgstr "已更新自定义栏目。"
+msgstr "已更新自定义字段。"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:223
 msgid "No comments found."
@@ -14917,7 +14917,7 @@ msgstr "ag:i:s"
 #: wp-admin/includes/ajax-actions.php:1581
 #: wp-admin/includes/ajax-actions.php:1589
 msgid "Please provide a custom field value."
-msgstr "请输入一个自定义栏目值。"
+msgstr "请输入一个自定义字段值。"
 
 #: wp-admin/includes/ajax-actions.php:1301
 msgid "Sorry, you must be logged in to reply to a comment."
