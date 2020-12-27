@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 5.6.x - Development package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-12-22 12:56:38+0000\n"
+"PO-Revision-Date: 2020-12-27 03:20:32+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -3302,7 +3302,7 @@ msgstr "抹除个人数据"
 
 #: wp-includes/comment-template.php:2404
 msgid "Save my name, email, and website in this browser for the next time I comment."
-msgstr "在此浏览器中保存我的名字、电邮和网站。"
+msgstr "在此浏览器中保存我的姓名、电子邮件和站点地址。"
 
 #: wp-includes/user.php:3193
 msgid "User Description"
